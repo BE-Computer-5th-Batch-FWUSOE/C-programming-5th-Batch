@@ -14,5 +14,8 @@ int main(){
     ptr = &e1;
     // now we can print structure elements using:
     printf("%d \n", (*ptr).code);
+
+    //Arrow operator:
+    printf("%d\n", ptr->code); // exactly same as (*ptr).code
     return 0;
 }
