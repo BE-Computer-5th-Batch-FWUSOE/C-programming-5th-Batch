@@ -1,4 +1,4 @@
-// C program created by me priyanshu for calculating Compound Interest
+// C program created by me priyanshu for calculating the Compound Interest
 #include <stdio.h>
 
 // For using pow function we must 
